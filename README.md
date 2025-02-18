@@ -17,16 +17,16 @@ We are dedicated to **ethical hacking, cybersecurity research, and API/IoT secur
 🚀 **[SoBatistaCyber-Dev.github.io](https://github.com/SoBatistaCyber-Dev/sobatistacyber-dev.github.io)**  
 A modern, security-focused website showcasing **services, tutorials, and cybersecurity insights**.
 
-🔧 **[IoT Security Framework](https://github.com/SoBatistaCyber-Dev/IoT-Security-Framework)**  
-An **open-source security scanning framework** for identifying and securing IoT devices.
+🔧 **[My own Keylogger](https://github.com/SoBatistaCyber-Dev/keylogger)**  
+An **open-source keylogger**. This is simply being developed for learning & research purposes, not to be used maliciously.
 
-🔍 **[Bug Bounty & Pentesting Labs](https://github.com/SoBatistaCyber-Dev/Pentesting-Labs)**  
-Custom CTFs and vulnerable applications designed for security research and training.
+🔍 **[Vulnerable Flask Website](https://github.com/SoBatistaCyber-Dev/sql-injection-website)**  
+an **open-source vulnerable website** developed in Flask. The goal here is to add vulnerabilities for practice.
 
 📡 **[API Security Research](https://github.com/SoBatistaCyber-Dev/API-Security-Research)**  
 A collection of **API attack methodologies, vulnerabilities, and proof-of-concept exploits**.
 
-📝 **[Write-ups & Medium Blog](https://medium.com/@SoBatistaCyber)**  
+📝 **[Write-ups](https://github.com/SoBatistaCyber-Dev/hacking-writeups)**  
 We document **CTF solutions, security vulnerabilities, and bug bounty techniques**.
 
 ---
